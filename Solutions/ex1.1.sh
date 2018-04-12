@@ -4,4 +4,4 @@
 # Usage ./ex1.sh
 
 cp /var/log/messages /var/log/messages.old
-#rm -f /var/log/messages # Only commented to prevent accidental deletion
+#echo "" > /var/log/messages # Only commented to prevent accidental deletion
